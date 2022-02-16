@@ -1,3 +1,7 @@
-# angular-ljbece
+# Installation
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ljbece)
+npm install
+
+# Start
+
+npm start
